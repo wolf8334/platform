@@ -15,3 +15,8 @@ Rapid Application Development Framework
 
 
 目前的想法，是结合白衣的SpringSide 4.3.0和SpringSide 5.0.0，再加上CAS 4.0.0，PostgreSQL 9.6，以及其他没想全的东西，做一套企业级应用的原型出来。功能不敢谈多完整，代码不敢谈多漂亮，这么多年下来，也算是对自己的一个交代吧。
+
+
+
+
+2017年3月19日22:29:26，也许这是一个新的大事件的开端吧。
